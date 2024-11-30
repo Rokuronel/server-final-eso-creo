@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "minecraft:black_bed"
+    },
+    {
+      "item": "tconstruct:greenheart_fence"
+    },
+    {
+      "item": "tconstruct:greenheart_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:greenheart_tconstruct_black_classic_bed"
+  }
+}

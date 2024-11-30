@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "yellow",
+        "variant": "forbidden_arcanus:edelwood"
+      }
+    }
+  }
+}

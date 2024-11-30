@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:ebony_decoration_mod_classic_nightstand",
+    "count": 4
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "minecraft:pink_bed"
+    },
+    {
+      "item": "tconstruct:skyroot_fence"
+    },
+    {
+      "item": "tconstruct:skyroot_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:skyroot_tconstruct_pink_classic_bed"
+  }
+}

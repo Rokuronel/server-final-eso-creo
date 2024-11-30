@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:bloodshroom_tconstruct_kitchen_wall_counter",
+    "count": 6
+  }
+}

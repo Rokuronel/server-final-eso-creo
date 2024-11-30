@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:skyroot_tconstruct_kitchen_cabinet"
+  }
+}

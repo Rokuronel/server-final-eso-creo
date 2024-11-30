@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:skyroot_tconstruct_raw_table_log",
+    "count": 4
+  }
+}

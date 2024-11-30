@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:bloodshroom_tconstruct_classic_nightstand",
+    "count": 4
+  }
+}

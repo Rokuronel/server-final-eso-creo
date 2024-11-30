@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:mysterywood_forbidden_arcanus_raw_table_log",
+    "count": 4
+  }
+}

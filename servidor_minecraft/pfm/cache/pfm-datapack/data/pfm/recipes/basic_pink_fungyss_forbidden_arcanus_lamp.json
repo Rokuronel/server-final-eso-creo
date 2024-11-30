@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_wool"
+    },
+    {
+      "item": "minecraft:pink_wool"
+    },
+    {
+      "item": "minecraft:pink_wool"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_planks"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "pink",
+        "variant": "forbidden_arcanus:fungyss"
+      }
+    }
+  }
+}

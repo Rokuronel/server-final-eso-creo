@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "decoration_mod:ebony_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:ebony_decoration_mod_log_stool",
+    "count": 4
+  }
+}

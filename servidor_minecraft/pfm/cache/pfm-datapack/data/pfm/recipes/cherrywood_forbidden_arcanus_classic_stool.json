@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherrywood_forbidden_arcanus_classic_stool",
+    "count": 4
+  }
+}

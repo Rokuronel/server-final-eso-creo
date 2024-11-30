@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:ebony_decoration_mod_kitchen_wall_counter",
+    "count": 6
+  }
+}

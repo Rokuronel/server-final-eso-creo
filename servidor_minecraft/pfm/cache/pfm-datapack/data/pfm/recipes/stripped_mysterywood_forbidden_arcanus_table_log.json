@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mysterywood_forbidden_arcanus_table_log",
+    "count": 4
+  }
+}

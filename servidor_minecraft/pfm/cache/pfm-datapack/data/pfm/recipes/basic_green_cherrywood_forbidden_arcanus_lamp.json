@@ -1,0 +1,29 @@
+{
+  "type": "pfm:furniture",
+  "ingredients": [
+    {
+      "item": "minecraft:green_wool"
+    },
+    {
+      "item": "minecraft:green_wool"
+    },
+    {
+      "item": "minecraft:green_wool"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:basic_lamp",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "green",
+        "variant": "forbidden_arcanus:cherrywood"
+      }
+    }
+  }
+}

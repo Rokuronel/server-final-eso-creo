@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "minecraft:cyan_bed"
+    },
+    {
+      "item": "tconstruct:skyroot_fence"
+    },
+    {
+      "item": "tconstruct:skyroot_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:skyroot_tconstruct_cyan_classic_bed"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:edelwood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_planks"
+    },
+    {
+      "item": "minecraft:blue_bed"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_fence"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:edelwood_forbidden_arcanus_blue_classic_bed"
+  }
+}

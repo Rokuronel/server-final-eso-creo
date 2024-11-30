@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:greenheart_tconstruct_kitchen_wall_drawer"
+  }
+}

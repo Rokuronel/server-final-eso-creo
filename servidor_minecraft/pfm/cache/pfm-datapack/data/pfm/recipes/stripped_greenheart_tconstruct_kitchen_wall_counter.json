@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_greenheart_tconstruct_kitchen_wall_counter",
+    "count": 6
+  }
+}

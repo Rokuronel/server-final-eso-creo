@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:bloodshroom_tconstruct_raw_table_log",
+    "count": 4
+  }
+}

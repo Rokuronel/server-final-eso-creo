@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:ebony_decoration_mod_table_basic",
+    "count": 4
+  }
+}

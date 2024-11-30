@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_greenheart_tconstruct_classic_nightstand",
+    "count": 4
+  }
+}

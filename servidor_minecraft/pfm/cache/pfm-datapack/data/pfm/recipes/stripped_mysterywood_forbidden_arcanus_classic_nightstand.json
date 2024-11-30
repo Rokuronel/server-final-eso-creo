@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mysterywood_forbidden_arcanus_classic_nightstand",
+    "count": 4
+  }
+}

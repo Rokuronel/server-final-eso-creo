@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_cherrywood_forbidden_arcanus_kitchen_counter",
+    "count": 6
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "tconstruct:skyroot_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:skyroot_tconstruct_table_classic",
+    "count": 4
+  }
+}

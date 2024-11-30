@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    },
+    {
+      "item": "tconstruct:stripped_greenheart_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_greenheart_tconstruct_classic_stool",
+    "count": 4
+  }
+}

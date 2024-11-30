@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_cherrywood_forbidden_arcanus_table_classic",
+    "count": 4
+  }
+}

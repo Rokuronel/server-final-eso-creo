@@ -1,0 +1,31 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:greenheart_tconstruct_table_classic",
+    "count": 4
+  }
+}

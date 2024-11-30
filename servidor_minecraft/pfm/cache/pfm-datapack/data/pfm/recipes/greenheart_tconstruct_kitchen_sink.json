@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_log"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "tconstruct:greenheart_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:greenheart_tconstruct_kitchen_sink"
+  }
+}

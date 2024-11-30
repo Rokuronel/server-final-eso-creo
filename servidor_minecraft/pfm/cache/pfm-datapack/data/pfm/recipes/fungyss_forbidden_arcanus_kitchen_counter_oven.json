@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:fungyss_stem"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_stem"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_stem"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_stem"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_stem"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_planks"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_planks"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_planks"
+    },
+    {
+      "item": "minecraft:furnace"
+    }
+  ],
+  "result": {
+    "item": "pfm:fungyss_forbidden_arcanus_kitchen_counter_oven"
+  }
+}

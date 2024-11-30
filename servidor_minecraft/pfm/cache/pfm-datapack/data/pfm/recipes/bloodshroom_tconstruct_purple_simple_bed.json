@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "minecraft:purple_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:bloodshroom_tconstruct_purple_simple_bed"
+  }
+}

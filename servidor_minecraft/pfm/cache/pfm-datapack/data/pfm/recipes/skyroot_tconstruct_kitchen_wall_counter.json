@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:skyroot_tconstruct_kitchen_wall_counter",
+    "count": 6
+  }
+}

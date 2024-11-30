@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mysterywood_forbidden_arcanus_kitchen_wall_drawer"
+  }
+}

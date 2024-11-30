@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_fence"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:mysterywood_forbidden_arcanus_red_classic_bed"
+  }
+}

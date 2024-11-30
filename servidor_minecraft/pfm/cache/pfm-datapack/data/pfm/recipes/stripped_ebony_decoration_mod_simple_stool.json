@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "decoration_mod:ebony_planks"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    },
+    {
+      "item": "decoration_mod:stripped_ebony_log"
+    },
+    {
+      "item": "decoration_mod:stripped_ebony_log"
+    },
+    {
+      "item": "decoration_mod:stripped_ebony_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_ebony_decoration_mod_simple_stool",
+    "count": 4
+  }
+}

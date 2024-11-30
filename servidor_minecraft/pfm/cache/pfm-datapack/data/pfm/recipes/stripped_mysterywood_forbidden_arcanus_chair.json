@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_mysterywood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_mysterywood_forbidden_arcanus_chair",
+    "count": 4
+  }
+}

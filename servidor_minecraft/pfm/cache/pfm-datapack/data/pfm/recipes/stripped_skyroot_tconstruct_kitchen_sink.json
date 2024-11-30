@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "tconstruct:stripped_skyroot_log"
+    },
+    {
+      "item": "tconstruct:stripped_skyroot_log"
+    },
+    {
+      "item": "tconstruct:stripped_skyroot_log"
+    },
+    {
+      "item": "tconstruct:stripped_skyroot_log"
+    },
+    {
+      "item": "tconstruct:stripped_skyroot_log"
+    },
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_skyroot_tconstruct_kitchen_sink"
+  }
+}

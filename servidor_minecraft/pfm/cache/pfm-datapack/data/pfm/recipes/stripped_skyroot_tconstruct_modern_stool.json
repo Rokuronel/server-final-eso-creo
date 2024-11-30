@@ -1,0 +1,22 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "tconstruct:skyroot_planks"
+    },
+    {
+      "item": "tconstruct:stripped_skyroot_log"
+    },
+    {
+      "item": "tconstruct:stripped_skyroot_log"
+    },
+    {
+      "item": "tconstruct:stripped_skyroot_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_skyroot_tconstruct_modern_stool",
+    "count": 4
+  }
+}

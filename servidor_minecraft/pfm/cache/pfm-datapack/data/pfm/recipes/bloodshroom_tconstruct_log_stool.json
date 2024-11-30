@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "tconstruct:bloodshroom_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:bloodshroom_tconstruct_log_stool",
+    "count": 4
+  }
+}

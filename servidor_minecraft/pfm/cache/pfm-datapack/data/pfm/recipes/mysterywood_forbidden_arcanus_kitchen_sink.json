@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:mysterywood_planks"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "pfm:mysterywood_forbidden_arcanus_kitchen_sink"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:cherrywood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherrywood_forbidden_arcanus_log_stool",
+    "count": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:ebony_decoration_mod_table_dinner",
+    "count": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherrywood_forbidden_arcanus_chair_modern",
+    "count": 4
+  }
+}

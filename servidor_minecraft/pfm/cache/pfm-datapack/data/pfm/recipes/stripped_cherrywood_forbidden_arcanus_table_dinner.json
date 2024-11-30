@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    },
+    {
+      "item": "forbidden_arcanus:stripped_cherrywood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_cherrywood_forbidden_arcanus_table_dinner",
+    "count": 4
+  }
+}

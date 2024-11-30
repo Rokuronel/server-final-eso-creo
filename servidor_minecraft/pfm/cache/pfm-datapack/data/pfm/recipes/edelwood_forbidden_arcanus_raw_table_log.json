@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:edelwood_log"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_log"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_log"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_log"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:edelwood_forbidden_arcanus_raw_table_log",
+    "count": 4
+  }
+}

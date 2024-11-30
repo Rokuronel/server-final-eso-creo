@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:edelwood_log"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_log"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_log"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:edelwood_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:edelwood_forbidden_arcanus_chair_modern",
+    "count": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "tconstruct:skyroot_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:skyroot_tconstruct_log_stool",
+    "count": 4
+  }
+}

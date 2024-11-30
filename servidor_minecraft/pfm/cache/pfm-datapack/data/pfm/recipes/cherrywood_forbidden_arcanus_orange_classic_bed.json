@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_planks"
+    },
+    {
+      "item": "minecraft:orange_bed"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_fence"
+    },
+    {
+      "item": "forbidden_arcanus:cherrywood_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:cherrywood_forbidden_arcanus_orange_classic_bed"
+  }
+}

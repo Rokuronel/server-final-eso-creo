@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:stripped_bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:stripped_bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:stripped_bloodshroom_log"
+    }
+  ],
+  "result": {
+    "item": "pfm:stripped_bloodshroom_tconstruct_table_modern_dinner",
+    "count": 4
+  }
+}

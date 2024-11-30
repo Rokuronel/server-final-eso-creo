@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:fungyss_stem"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_stem"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_stem"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_stem"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_planks"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:fungyss_forbidden_arcanus_chair_classic",
+    "count": 4
+  }
+}

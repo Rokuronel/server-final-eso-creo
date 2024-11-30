@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "forbidden_arcanus:fungyss_planks"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_planks"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_planks"
+    },
+    {
+      "item": "minecraft:red_bed"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_fence"
+    },
+    {
+      "item": "forbidden_arcanus:fungyss_fence"
+    }
+  ],
+  "result": {
+    "item": "pfm:fungyss_forbidden_arcanus_red_classic_bed"
+  }
+}

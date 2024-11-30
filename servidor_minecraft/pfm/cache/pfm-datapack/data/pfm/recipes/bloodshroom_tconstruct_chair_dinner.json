@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "chairs",
+  "ingredients": [
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_log"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    },
+    {
+      "item": "tconstruct:bloodshroom_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:bloodshroom_tconstruct_chair_dinner",
+    "count": 4
+  }
+}

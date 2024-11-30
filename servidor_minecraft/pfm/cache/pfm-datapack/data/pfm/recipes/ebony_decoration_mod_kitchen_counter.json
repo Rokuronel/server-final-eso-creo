@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_log"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    },
+    {
+      "item": "decoration_mod:ebony_planks"
+    }
+  ],
+  "result": {
+    "item": "pfm:ebony_decoration_mod_kitchen_counter",
+    "count": 6
+  }
+}
